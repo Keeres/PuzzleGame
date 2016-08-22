@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Assets/Scripts/Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="../match3/Assets/Scripts/Gem.cs" Line="1" Column="1" />
+      <File FileName="../match3/Assets/Scripts/Grid.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LoadOnClick.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Puzzle.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Grids.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/particleSetup.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/particleTest.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BlockClear.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ClickToLoadAsync.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Constants.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DontDestroy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FadeWithLoad.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Fading.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FlipText.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TouchSwipe.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SpawnCurrent.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
